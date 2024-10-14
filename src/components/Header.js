@@ -90,79 +90,79 @@ function Header() {
   const men = {
     topWear: [
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Top Wear&sub_category=T-Shirts",
+        "/fashion/mens-wear?page=1&limit=21&category=Topwear&sub_category=T-Shirts",
         "T-Shirts",
       ],
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Top Wear&sub_category=Casual Shirts",
+        "/fashion/mens-wear?page=1&limit=21&category=Topwear&sub_category=Casual Shirts",
         "Casual Shirts",
       ],
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Top Wear&sub_category=Formal Shirts",
+        "/fashion/mens-wear?page=1&limit=21&category=Topwear&sub_category=Formal Shirts",
         "Formal Shirts",
       ],
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Top Wear&sub_category=Sweatshirts",
+        "/fashion/mens-wear?page=1&limit=21&category=Topwear&sub_category=Sweatshirts",
         "Sweatshirts",
       ],
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Top Wear&sub_category=Sweaters",
+        "/fashion/mens-wear?page=1&limit=21&category=Topwear&sub_category=Sweaters",
         "Sweaters",
       ],
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Top Wear&sub_category=Jackets",
+        "/fashion/mens-wear?page=1&limit=21&category=Topwear&sub_category=Jackets",
         "Jackets",
       ],
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Top Wear&sub_category=Blazers & Coats",
+        "/fashion/mens-wear?page=1&limit=21&category=Topwear&sub_category=Blazers %26 Coats",
         "Blazers & Coats",
       ],
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Top Wear&sub_category=Suits",
+        "/fashion/mens-wear?page=1&limit=21&category=Topwear&sub_category=Suits",
         "Suits",
       ],
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Top Wear&sub_category=Rain Jackets",
+        "/fashion/mens-wear?page=1&limit=21&category=Topwear&sub_category=Rain Jackets",
         "Rain Jackets",
       ],
     ],
     indianFestivalWear: [
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Indian & Festival Wear&sub_category=Kurtas & Kurta Sets",
+        "/fashion/mens-wear?page=1&limit=21&category=Indian %26 Festival Wear&sub_category=Kurtas %26 Kurta Sets",
         "Kurtas & Kurta Sets",
       ],
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Indian & Festival Wear&sub_category=Sherwanis",
+        "/fashion/mens-wear?page=1&limit=21&category=Indian %26 Festival Wear&sub_category=Sherwanis",
         "Sherwanis",
       ],
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Indian & Festival Wear&sub_category=Nehru Jackets",
+        "/fashion/mens-wear?page=1&limit=21&category=Indian %26 Festival Wear&sub_category=Nehru Jackets",
         "Nehru Jackets",
       ],
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Indian & Festival Wear&sub_category=Dhotis",
+        "/fashion/mens-wear?page=1&limit=21&category=Indian %26 Festival Wear&sub_category=Dhotis",
         "Dhotis",
       ],
     ],
     bottomWear: [
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Bottom Wear&sub_category=Jeans",
+        "/fashion/mens-wear?page=1&limit=21&category=Bottomwear&sub_category=Jeans",
         "Jeans",
       ],
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Bottom Wear&sub_category=Casual Trousers",
+        "/fashion/mens-wear?page=1&limit=21&category=Bottomwear&sub_category=Casual Trousers",
         "Casual Trousers",
       ],
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Bottom Wear&sub_category=Formal Trousers",
+        "/fashion/mens-wear?page=1&limit=21&category=Bottomwear&sub_category=Formal Trousers",
         "Formal Trousers",
       ],
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Bottom Wear&sub_category=Shorts",
+        "/fashion/mens-wear?page=1&limit=21&category=Bottomwear&sub_category=Shorts",
         "Shorts",
       ],
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Bottom Wear&sub_category=Track Pants & Joggers",
+        "/fashion/mens-wear?page=1&limit=21&category=Bottomwear&sub_category=Track Pants & Joggers",
         "Track Pants & Joggers",
       ],
     ],
@@ -220,35 +220,35 @@ function Header() {
     ],
     sports: [
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Sports Wear&sub_category=Sports Shoes",
+        "/fashion/mens-wear?page=1&limit=21&category=Sports %26 Active Wear&sub_category=Sports Shoes",
         "Sports Shoes",
       ],
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Sports Wear&sub_category=Sports Sandals",
+        "/fashion/mens-wear?page=1&limit=21&category=Sports %26 Active Wear&sub_category=Sports Sandals",
         "Sports Sandals",
       ],
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Sports Wear&sub_category=Active T-Shirts",
+        "/fashion/mens-wear?page=1&limit=21&category=Sports %26 Active Wear&sub_category=Active T-Shirts",
         "Active T-Shirts",
       ],
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Sports Wear&sub_category=Track Pants & Shorts",
+        "/fashion/mens-wear?page=1&limit=21&category=Sports %26 Active Wear&sub_category=Track Pants %26 Shorts",
         "Track Pants & Shorts",
       ],
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Sports Wear&sub_category=Track Suits",
+        "/fashion/mens-wear?page=1&limit=21&category=Sports %26 Active Wear&sub_category=Track Suits",
         "Track Suits",
       ],
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Sports Wear&sub_category=Jackets & Sweatshirts",
+        "/fashion/mens-wear?page=1&limit=21&category=Sports %26 Active Wear&sub_category=Jackets %26 Sweatshirts",
         "Jackets & Sweatshirts",
       ],
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Sports Wear&sub_category=Sports Accessories",
+        "/fashion/mens-wear?page=1&limit=21&category=Sports %26 Active Wear&sub_category=Sports Accessories",
         "Sports Accessories",
       ],
       [
-        "/fashion/mens-wear?page=1&limit=21&category=Sports Wear&sub_category=Swimwear",
+        "/fashion/mens-wear?page=1&limit=21&category=Sports %26 Active Wear&sub_category=Swimwear",
         "Swimwear",
       ],
     ],
@@ -327,43 +327,43 @@ function Header() {
   const women = {
     indianFusionWear: [
       [
-        "/fashion/womens-wear?page=1&limit=21&category=Indian Fusion Wear&sub_category=Kurtas %26 Suits",
+        "/fashion/womens-wear?page=1&limit=21&category=Indian %26 Fusion Wear&sub_category=Kurtas %26 Suits",
         "Kurtas & Suits",
       ],
       [
-        "/fashion/womens-wear?page=1&limit=21&category=Indian Fusion Wear&sub_category=Kurtis, Tunics & Tops",
+        "/fashion/womens-wear?page=1&limit=21&category=Indian %26 Fusion Wear&sub_category=Kurtis, Tunics %26 Tops",
         "Kurtis, Tunics & Tops",
       ],
       [
-        "/fashion/womens-wear?page=1&limit=21&category=Indian Fusion Wear&sub_category=Sarees",
+        "/fashion/womens-wear?page=1&limit=21&category=Indian %26 Fusion Wear&sub_category=Sarees",
         "Sarees",
       ],
       [
-        "/fashion/womens-wear?page=1&limit=21&category=Indian Fusion Wear&sub_category=Ethnic Wear",
+        "/fashion/womens-wear?page=1&limit=21&category=Indian %26 Fusion Wear&sub_category=Ethnic Wear",
         "Ethnic Wear",
       ],
       [
-        "/fashion/womens-wear?page=1&limit=21&category=Indian Fusion Wear&sub_category=Leggings, Salwars %26 Churidars",
+        "/fashion/womens-wear?page=1&limit=21&category=Indian %26 Fusion Wear&sub_category=Leggings, Salwars %26 Churidars",
         "Leggings, Salwars & Churidars",
       ],
       [
-        "/fashion/womens-wear?page=1&limit=21&category=Indian Fusion Wear&sub_category=Skirts %26 Palazzos",
+        "/fashion/womens-wear?page=1&limit=21&category=Indian %26 Fusion Wear&sub_category=Skirts %26 Palazzos",
         "Skirts & Palazzos",
       ],
       [
-        "/fashion/womens-wear?page=1&limit=21&category=Indian Fusion Wear&sub_category=Dress Materials",
+        "/fashion/womens-wear?page=1&limit=21&category=Indian %26 Fusion Wear&sub_category=Dress Materials",
         "Dress Materials",
       ],
       [
-        "/fashion/womens-wear?page=1&limit=21&category=Indian Fusion Wear&sub_category=Lehenga Cholis",
+        "/fashion/womens-wear?page=1&limit=21&category=Indian %26 Fusion Wear&sub_category=Lehenga Cholis",
         "Lehenga Cholis",
       ],
       [
-        "/fashion/womens-wear?page=1&limit=21&category=Indian Fusion Wear&sub_category=Dupattas %26 Shawls",
+        "/fashion/womens-wear?page=1&limit=21&category=Indian %26 Fusion Wear&sub_category=Dupattas %26 Shawls",
         "Dupattas & Shawls",
       ],
       [
-        "/fashion/womens-wear?page=1&limit=21&category=Indian Fusion Wear&sub_category=Jackets",
+        "/fashion/womens-wear?page=1&limit=21&category=Indian %26 Fusion Wear&sub_category=Jackets",
         "Jackets",
       ],
     ],
@@ -440,25 +440,25 @@ function Header() {
         "Boots",
       ],
       [
-        "/fashion/womens-wear?page=1&limit=21&category=Footwear&sub_category=Sports Shoes & Floaters",
+        "/fashion/womens-wear?page=1&limit=21&category=Footwear&sub_category=Sports Shoes %26 Floaters",
         "Sports Shoes & Floaters",
       ],
     ],
     sports: [
       [
-        "/fashion/womens-wear?page=1&limit=21&category=Sports&sub_category=Clothing",
+        "/fashion/womens-wear?page=1&limit=21&category=Sports %26 Active Wear&sub_category=Clothing",
         "Clothing",
       ],
       [
-        "/fashion/womens-wear?page=1&limit=21&category=Sports&sub_category=Footwear",
+        "/fashion/womens-wear?page=1&limit=21&category=Sports %26 Active Wear&sub_category=Footwear",
         "Footwear",
       ],
       [
-        "/fashion/womens-wear?page=1&limit=21&category=Sports&sub_category=SportsAccessories",
+        "/fashion/womens-wear?page=1&limit=21&category=Sports %26 Active Wear&sub_category=SportsAccessories",
         "Sports Accessories",
       ],
       [
-        "/fashion/womens-wear?page=1&limit=21&category=Sports&sub_category=SportsEquipment",
+        "/fashion/womens-wear?page=1&limit=21&category=Sports %26 Active Wear&sub_category=SportsEquipment",
         "Sports Equipment",
       ],
     ],
@@ -698,19 +698,19 @@ function Header() {
     ],
     toysAndGames: [
       [
-        "/fashion/kids-wear?page=1&limit=21&category=Toys and Games&sub_category=Learning & Development",
+        "/fashion/kids-wear?page=1&limit=21&category=Toys %26 Games&sub_category=Learning & Development",
         "Learning & Development",
       ],
       [
-        "/fashion/kids-wear?page=1&limit=21&category=Toys and Games&sub_category=Activity Toys",
+        "/fashion/kids-wear?page=1&limit=21&category=Toys %26 Games&sub_category=Activity Toys",
         "Activity Toys",
       ],
       [
-        "/fashion/kids-wear?page=1&limit=21&category=Toys and Games&sub_category=Soft Toys",
+        "/fashion/kids-wear?page=1&limit=21&category=Toys %26 Games&sub_category=Soft Toys",
         "Soft Toys",
       ],
       [
-        "/fashion/kids-wear?page=1&limit=21&category=Toys and Games&sub_category=Action Figure / Play set",
+        "/fashion/kids-wear?page=1&limit=21&category=Toys %26 Games&sub_category=Action Figure / Play set",
         "Action Figure / Play set",
       ],
     ],
@@ -818,43 +818,43 @@ function Header() {
   const home = {
     bedLinen: [
       [
-        "/home-and-living?page=1&limit=21&category=Bed Linen&sub_category=Bed Runners",
+        "/home-and-living?page=1&limit=21&category=Bed Linen %26 Furnishing&sub_category=Bed Runners",
         "Bed Runners",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Bed Linen&sub_category=Mattress Protectors",
+        "/home-and-living?page=1&limit=21&category=Bed Linen %26 Furnishing&sub_category=Mattress Protectors",
         "Mattress Protectors",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Bed Linen&sub_category=Bedsheets",
+        "/home-and-living?page=1&limit=21&category=Bed Linen %26 Furnishing&sub_category=Bedsheets",
         "Bedsheets",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Bed Linen&sub_category=Bedding Sets",
+        "/home-and-living?page=1&limit=21&category=Bed Linen %26 Furnishing&sub_category=Bedding Sets",
         "Bedding Sets",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Bed Linen&sub_category=Blankets, Quilts & Dohars",
+        "/home-and-living?page=1&limit=21&category=Bed Linen %26 Furnishing&sub_category=Blankets, Quilts & Dohars",
         "Blankets, Quilts & Dohars",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Bed Linen&sub_category=Pillows & Pillow Covers",
+        "/home-and-living?page=1&limit=21&category=Bed Linen %26 Furnishing&sub_category=Pillows & Pillow Covers",
         "Pillows & Pillow Covers",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Bed Linen&sub_category=Bed Covers",
+        "/home-and-living?page=1&limit=21&category=Bed Linen %26 Furnishing&sub_category=Bed Covers",
         "Bed Covers",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Bed Linen&sub_category=Diwan Sets",
+        "/home-and-living?page=1&limit=21&category=Bed Linen %26 Furnishing&sub_category=Diwan Sets",
         "Diwan Sets",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Bed Linen&sub_category=Chair Pads & Covers",
+        "/home-and-living?page=1&limit=21&category=Bed Linen %26 Furnishing&sub_category=Chair Pads & Covers",
         "Chair Pads & Covers",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Bed Linen&sub_category=Sofa Covers",
+        "/home-and-living?page=1&limit=21&category=Bed Linen %26 Furnishing&sub_category=Sofa Covers",
         "Sofa Covers",
       ],
     ],
@@ -868,7 +868,7 @@ function Header() {
         "Carpets",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Flooring&sub_category=Floor Mats & Dhurries",
+        "/home-and-living?page=1&limit=21&category=Flooring&sub_category=Floor Mats %26 Dhurries",
         "Floor Mats & Dhurries",
       ],
       [
@@ -882,7 +882,7 @@ function Header() {
         "Bath Towels",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Bath&sub_category=Hand & Face Towels",
+        "/home-and-living?page=1&limit=21&category=Bath&sub_category=Hand %26 Face Towels",
         "Hand & Face Towels",
       ],
       [
@@ -912,37 +912,37 @@ function Header() {
     ],
     lamps: [
       [
-        "/home-and-living?page=1&limit=21&category=Lamps&sub_category=Floor Lamps",
+        "/home-and-living?page=1&limit=21&category=Lamps %26 Lighting&sub_category=Floor Lamps",
         "Floor Lamps",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Lamps&sub_category=Ceiling Lamps",
+        "/home-and-living?page=1&limit=21&category=Lamps %26 Lighting&sub_category=Ceiling Lamps",
         "Ceiling Lamps",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Lamps&sub_category=Table Lamps",
+        "/home-and-living?page=1&limit=21&category=Lamps %26 Lighting&sub_category=Table Lamps",
         "Table Lamps",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Lamps&sub_category=Wall Lamps",
+        "/home-and-living?page=1&limit=21&category=Lamps %26 Lighting&sub_category=Wall Lamps",
         "Wall Lamps",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Lamps&sub_category=Outdoor Lamps",
+        "/home-and-living?page=1&limit=21&category=Lamps %26 Lighting&sub_category=Outdoor Lamps",
         "Outdoor Lamps",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Lamps&sub_category=String Lights",
+        "/home-and-living?page=1&limit=21&category=Lamps %26 Lighting&sub_category=String Lights",
         "String Lights",
       ],
     ],
     homeDecor: [
       [
-        "/home-and-living?page=1&limit=21&category=Home Decor&sub_category=Plants & Planters",
+        "/home-and-living?page=1&limit=21&category=Home Decor&sub_category=Plants %26 Planters",
         "Plants & Planters",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Home Decor&sub_category=Aromas & Candles",
+        "/home-and-living?page=1&limit=21&category=Home Decor&sub_category=Aromas %26 Candles",
         "Aromas & Candles",
       ],
       [
@@ -974,7 +974,7 @@ function Header() {
         "Fountains",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Home Decor&sub_category=Showpieces & Vases",
+        "/home-and-living?page=1&limit=21&category=Home Decor&sub_category=Showpieces %26 Vases",
         "Showpieces & Vases",
       ],
       [
@@ -984,31 +984,31 @@ function Header() {
     ],
     kitchen: [
       [
-        "/home-and-living?page=1&limit=21&category=Kitchen&sub_category=Table Runners",
+        "/home-and-living?page=1&limit=21&category=Kitchen %26 Tables&sub_category=Table Runners",
         "Table Runners",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Kitchen&sub_category=Dinnerware & Serveware",
+        "/home-and-living?page=1&limit=21&category=Kitchen %26 Tables&sub_category=Dinnerware %26 Serveware",
         "Dinnerware & Serveware",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Kitchen&sub_category=Cups and Mugs",
+        "/home-and-living?page=1&limit=21&category=Kitchen %26 Tables&sub_category=Cups and Mugs",
         "Cups and Mugs",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Kitchen&sub_category=Bakeware & Cookware",
+        "/home-and-living?page=1&limit=21&category=Kitchen %26 Tables&sub_category=Bakeware %26 Cookware",
         "Bakeware & Cookware",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Kitchen&sub_category=Kitchen Storage & Tools",
+        "/home-and-living?page=1&limit=21&category=Kitchen %26 Tables&sub_category=Kitchen Storage %26 Tools",
         "Kitchen Storage & Tools",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Kitchen&sub_category=Bar & Drinkware",
+        "/home-and-living?page=1&limit=21&category=Kitchen %26 Tables&sub_category=Bar %26 Drinkware",
         "Bar & Drinkware",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Kitchen&sub_category=Table Covers & Furnishings",
+        "/home-and-living?page=1&limit=21&category=Kitchen %26 Tables&sub_category=Table Covers %26 Furnishings",
         "Table Covers & Furnishings",
       ],
     ],
@@ -1026,7 +1026,7 @@ function Header() {
         "Organisers",
       ],
       [
-        "/home-and-living?page=1&limit=21&category=Storage&sub_category=Hooks & Holders",
+        "/home-and-living?page=1&limit=21&category=Storage&sub_category=Hooks %26 Holders",
         "Hooks & Holders",
       ],
       [
@@ -1150,48 +1150,51 @@ function Header() {
     ],
     skincare: [
       [
-        "/beauty?page=1&limit=21&category=Skincare&sub_category=Face Moisturiser",
+        "/beauty?page=1&limit=21&category=Skincare, Bath %26 Beauty&sub_category=Face Moisturiser",
         "Face Moisturiser",
       ],
       [
-        "/beauty?page=1&limit=21&category=Skincare&sub_category=Cleanser",
+        "/beauty?page=1&limit=21&category=Skincare, Bath %26 Beauty&sub_category=Cleanser",
         "Cleanser",
       ],
       [
-        "/beauty?page=1&limit=21&category=Skincare&sub_category=Masks & Peel",
+        "/beauty?page=1&limit=21&category=Skincare, Bath %26 Beauty&sub_category=Masks %26 Peel",
         "Masks & Peel",
       ],
       [
-        "/beauty?page=1&limit=21&category=Skincare&sub_category=Sunscreen",
+        "/beauty?page=1&limit=21&category=Skincare, Bath %26 Beauty&sub_category=Sunscreen",
         "Sunscreen",
       ],
-      ["/beauty?page=1&limit=21&category=Skincare&sub_category=Serum", "Serum"],
       [
-        "/beauty?page=1&limit=21&category=Skincare&sub_category=Face Wash",
+        "/beauty?page=1&limit=21&category=Skincare, Bath %26 Beauty&sub_category=Serum",
+        "Serum",
+      ],
+      [
+        "/beauty?page=1&limit=21&category=Skincare, Bath %26 Beauty&sub_category=Face Wash",
         "Face Wash",
       ],
       [
-        "/beauty?page=1&limit=21&category=Skincare&sub_category=Eye Cream",
+        "/beauty?page=1&limit=21&category=Skincare, Bath %26 Beauty&sub_category=Eye Cream",
         "Eye Cream",
       ],
       [
-        "/beauty?page=1&limit=21&category=Skincare&sub_category=Lip Balm",
+        "/beauty?page=1&limit=21&category=Skincare, Bath %26 Beauty&sub_category=Lip Balm",
         "Lip Balm",
       ],
       [
-        "/beauty?page=1&limit=21&category=Skincare&sub_category=Body Lotion",
+        "/beauty?page=1&limit=21&category=Skincare, Bath %26 Beauty&sub_category=Body Lotion",
         "Body Lotion",
       ],
       [
-        "/beauty?page=1&limit=21&category=Skincare&sub_category=Body Wash",
+        "/beauty?page=1&limit=21&category=Skincare, Bath %26 Beauty&sub_category=Body Wash",
         "Body Wash",
       ],
       [
-        "/beauty?page=1&limit=21&category=Skincare&sub_category=Body Scrub",
+        "/beauty?page=1&limit=21&category=Skincare, Bath %26 Beauty&sub_category=Body Scrub",
         "Body Scrub",
       ],
       [
-        "/beauty?page=1&limit=21&category=Skincare&sub_category=Hand Cream",
+        "/beauty?page=1&limit=21&category=Skincare, Bath %26 Beauty&sub_category=Hand Cream",
         "Hand Cream",
       ],
     ],
@@ -1231,15 +1234,15 @@ function Header() {
     ],
     fragrence: [
       [
-        "/beauty?page=1&limit=21&category=Fragrance&sub_category=Perfume",
+        "/beauty?page=1&limit=21&category=Fragrances&sub_category=Perfume",
         "Perfume",
       ],
       [
-        "/beauty?page=1&limit=21&category=Fragrance&sub_category=Deodorant",
+        "/beauty?page=1&limit=21&category=Fragrances&sub_category=Deodorant",
         "Deodorant",
       ],
       [
-        "/beauty?page=1&limit=21&category=Fragrance&sub_category=Body Mist",
+        "/beauty?page=1&limit=21&category=Fragrances&sub_category=Body Mist",
         "Body Mist",
       ],
     ],
@@ -1259,25 +1262,25 @@ function Header() {
     ],
     mensGrooming: [
       [
-        "/beauty?page=1&limit=21&category=Mens Grooming&sub_category=Trimmers",
+        "/beauty?page=1&limit=21&category=Men's Grooming&sub_category=Trimmers",
         "Trimmers",
       ],
       [
-        "/beauty?page=1&limit=21&category=Mens Grooming&sub_category=Beard Oil",
+        "/beauty?page=1&limit=21&category=Men's Grooming&sub_category=Beard Oil",
         "Beard Oil",
       ],
       [
-        "/beauty?page=1&limit=21&category=Mens Grooming&sub_category=Hair Wax",
+        "/beauty?page=1&limit=21&category=Men's Grooming&sub_category=Hair Wax",
         "Hair Wax",
       ],
     ],
     beautyGift: [
       [
-        "/beauty?page=1&limit=21&category=Beauty Gift&sub_category=Beauty Gift",
+        "/beauty?page=1&limit=21&category=Beauty Gift %26 Makeup Set&sub_category=Beauty Gift",
         "Beauty Gift",
       ],
       [
-        "/beauty?page=1&limit=21&category=Beauty Gift&sub_category=Makeup Kit",
+        "/beauty?page=1&limit=21&category=Beauty Gift %26 Makeup Set&sub_category=Makeup Kit",
         "Makeup Kit",
       ],
     ],
@@ -1505,6 +1508,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to={`/fashion/mens-wear?page=1&limit=21&category=Topwear`}
                         >
                           Topwear
                         </Link>
@@ -1546,6 +1550,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to={`/fashion/mens-wear?page=1&limit=21&category=Indian %26 Festive Wear`}
                         >
                           Indian & Festive Wear
                         </Link>
@@ -1587,6 +1592,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to={`/fashion/mens-wear?page=1&limit=21&category=Bottomwear`}
                         >
                           Bottomwear
                         </Link>
@@ -1628,6 +1634,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to={`/fashion/mens-wear?page=1&limit=21&category=Innerwear %26 Sleepwear`}
                         >
                           Innerwear & Sleepwear
                         </Link>
@@ -1664,6 +1671,7 @@ function Header() {
                       <Link
                         className="mobile-sub-link"
                         onClick={handleCloseButton}
+                        to={`/fashion/mens-wear?page=1&limit=21&category=Plus Size`}
                       >
                         Plus Size
                       </Link>
@@ -1677,6 +1685,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to={`/fashion/mens-wear?page=1&limit=21&category=Footwear`}
                         >
                           Footwear
                         </Link>
@@ -1713,6 +1722,7 @@ function Header() {
                       <Link
                         className="mobile-sub-link"
                         onClick={handleCloseButton}
+                        to={`/fashion/mens-wear?page=1&limit=21&category=Personal Care %26 Grooming`}
                       >
                         Personal Care & Grooming
                       </Link>
@@ -1721,6 +1731,7 @@ function Header() {
                       <Link
                         className="mobile-sub-link"
                         onClick={handleCloseButton}
+                        to={`/fashion/mens-wear?page=1&limit=21&category=Sunglasses %26 Frames`}
                       >
                         Sunglasses & Frames
                       </Link>
@@ -1729,6 +1740,7 @@ function Header() {
                       <Link
                         className="mobile-sub-link"
                         onClick={handleCloseButton}
+                        to={`/fashion/mens-wear?page=1&limit=21&category=Watches`}
                       >
                         Watches
                       </Link>
@@ -1742,6 +1754,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to={`/fashion/mens-wear?page=1&limit=21&category=Sports %26 Active Wear`}
                         >
                           Sports & Active Wear
                         </Link>
@@ -1781,6 +1794,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to={`/fashion/mens-wear?page=1&limit=21&category=Gadgets`}
                         >
                           Gadgets
                         </Link>
@@ -1822,6 +1836,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to={`/fashion/mens-wear?page=1&limit=21&category=Fashion Accessories`}
                         >
                           Fashion Accessories
                         </Link>
@@ -1858,6 +1873,7 @@ function Header() {
                       <Link
                         className="mobile-sub-link"
                         onClick={handleCloseButton}
+                        to={`/fashion/mens-wear?page=1&limit=21&category=Bags %26 Backpacks`}
                       >
                         Bags & Backpacks
                       </Link>
@@ -1866,6 +1882,7 @@ function Header() {
                       <Link
                         className="mobile-sub-link"
                         onClick={handleCloseButton}
+                        to={`/fashion/mens-wear?page=1&limit=21&category=Luggages %26 Trolleys`}
                       >
                         Luggages & Trolleys
                       </Link>
@@ -1909,6 +1926,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/fashion/womens-wear?page=1&limit=21&category=Indian %26 Fusion Wear"
                         >
                           Indian & Fusion Wear
                         </Link>
@@ -1945,6 +1963,7 @@ function Header() {
                       <Link
                         className="mobile-sub-link"
                         onClick={handleCloseButton}
+                        to="/fashion/womens-wear?page=1&limit=21&category=Belts, Scarves %26 More"
                       >
                         Belts, Scarves & More
                       </Link>
@@ -1953,6 +1972,7 @@ function Header() {
                       <Link
                         className="mobile-sub-link"
                         onClick={handleCloseButton}
+                        to="/fashion/womens-wear?page=1&limit=21&category=Watches %26 Wearables"
                       >
                         Watches & Wearables
                       </Link>
@@ -1966,6 +1986,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/fashion/womens-wear?page=1&limit=21&category=Western Wear"
                         >
                           Western Wear
                         </Link>
@@ -2005,6 +2026,7 @@ function Header() {
                       <Link
                         className="mobile-sub-link"
                         onClick={handleCloseButton}
+                        to="/fashion/womens-wear?page=1&limit=21&category=Plus Size"
                       >
                         Plus Size
                       </Link>
@@ -2021,6 +2043,7 @@ function Header() {
                       <Link
                         className="mobile-sub-link"
                         onClick={handleCloseButton}
+                        to="/fashion/womens-wear?page=1&limit=21&category=Sunglasses %26 Frames"
                       >
                         Sunglasses & Frames
                       </Link>
@@ -2034,6 +2057,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/fashion/womens-wear?page=1&limit=21&category=Footwear"
                         >
                           Footwear
                         </Link>
@@ -2075,6 +2099,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/fashion/womens-wear?page=1&limit=21&category=Sports %26 Active Wear"
                         >
                           Sports & Active Wear
                         </Link>
@@ -2116,6 +2141,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/fashion/womens-wear?page=1&limit=21&category=Lingerie %26 Sleepwear"
                         >
                           Lingerie & Sleepwear
                         </Link>
@@ -2157,6 +2183,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/fashion/womens-wear?page=1&limit=21&category=Beauty %26 Personal Care"
                         >
                           Beauty & Personal Care
                         </Link>
@@ -2204,6 +2231,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/fashion/womens-wear?page=1&limit=21&category=Gadgets"
                         >
                           Gadgets
                         </Link>
@@ -2245,6 +2273,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/fashion/womens-wear?page=1&limit=21&category=Jewellery"
                         >
                           Jewellery
                         </Link>
@@ -2281,6 +2310,7 @@ function Header() {
                       <Link
                         className="mobile-sub-link"
                         onClick={handleCloseButton}
+                        to="/fashion/womens-wear?page=1&limit=21&category=Backpacks"
                       >
                         Backpacks
                       </Link>
@@ -2289,6 +2319,7 @@ function Header() {
                       <Link
                         className="mobile-sub-link"
                         onClick={handleCloseButton}
+                        to="/fashion/womens-wear?page=1&limit=21&category=Handbags, Bags %26 Wallets"
                       >
                         Handbags, Bags & Wallets
                       </Link>
@@ -2297,6 +2328,7 @@ function Header() {
                       <Link
                         className="mobile-sub-link"
                         onClick={handleCloseButton}
+                        to="/fashion/womens-wear?page=1&limit=21&category=Luggages %26 Trolleys"
                       >
                         Luggages & Trolleys
                       </Link>
@@ -2335,6 +2367,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/fashion/kids-wear?page=1&limit=21&category=Boys Clothing"
                         >
                           Boys Clothing
                         </Link>
@@ -2381,6 +2414,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/fashion/kids-wear?page=1&limit=21&category=Girls Clothing"
                         >
                           Girls Clothing
                         </Link>
@@ -2422,6 +2456,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/fashion/kids-wear?page=1&limit=21&category=Footwear"
                         >
                           Footwear
                         </Link>
@@ -2463,6 +2498,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/fashion/kids-wear?page=1&limit=21&category=Toys %26 Games"
                         >
                           Toys & Games
                         </Link>
@@ -2502,6 +2538,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/fashion/kids-wear?page=1&limit=21&category=Infants"
                         >
                           Infants
                         </Link>
@@ -2538,6 +2575,7 @@ function Header() {
                       <Link
                         className="mobile-sub-link"
                         onClick={handleCloseButton}
+                        to="/fashion/kids-wear?page=1&limit=21&category=Home %26 Bath"
                       >
                         Home & Bath
                       </Link>
@@ -2546,6 +2584,7 @@ function Header() {
                       <Link
                         className="mobile-sub-link"
                         onClick={handleCloseButton}
+                        to="/fashion/kids-wear?page=1&limit=21&category=Personal Care"
                       >
                         Personal Care
                       </Link>
@@ -2559,6 +2598,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/fashion/kids-wear?page=1&limit=21&category=Kids Accessories"
                         >
                           Kids Accessories
                         </Link>
@@ -2600,6 +2640,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/fashion/kids-wear?page=1&limit=21&category=Brands"
                         >
                           Brands
                         </Link>
@@ -2666,6 +2707,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/home-and-living?page=1&limit=21&category=Bed Linen %26 Furnishing"
                         >
                           Bed Linen & Furnishing
                         </Link>
@@ -2707,6 +2749,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/home-and-living?page=1&limit=21&category=Flooring"
                         >
                           Flooring
                         </Link>
@@ -2748,6 +2791,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/home-and-living?page=1&limit=21&category=Bath"
                         >
                           Bath
                         </Link>
@@ -2787,6 +2831,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/home-and-living?page=1&limit=21&category=Lamps %26 Lighting"
                         >
                           Lamps & Lighting
                         </Link>
@@ -2828,6 +2873,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/home-and-living?page=1&limit=21&category=Home Decor"
                         >
                           Home Décor
                         </Link>
@@ -2862,6 +2908,7 @@ function Header() {
                       <Link
                         className="mobile-sub-link"
                         onClick={handleCloseButton}
+                        to="/home-and-living?page=1&limit=21&category=Cushions %26 Cushion Covers"
                       >
                         Cushions & Cushion Covers
                       </Link>
@@ -2870,6 +2917,7 @@ function Header() {
                       <Link
                         className="mobile-sub-link"
                         onClick={handleCloseButton}
+                        to="/home-and-living?page=1&limit=21&category=Curtains"
                       >
                         Curtains
                       </Link>
@@ -2878,6 +2926,7 @@ function Header() {
                       <Link
                         className="mobile-sub-link"
                         onClick={handleCloseButton}
+                        to="/home-and-living?page=1&limit=21&category=Home Gift Sets"
                       >
                         Home Gift Sets
                       </Link>
@@ -2891,6 +2940,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/home-and-living?page=1&limit=21&category=Kitchen %26 Table"
                         >
                           Kitchen & Table
                         </Link>
@@ -2932,6 +2982,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/home-and-living?page=1&limit=21&category=Storage"
                         >
                           Storage
                         </Link>
@@ -2973,6 +3024,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/home-and-living?page=1&limit=21&category=Brands"
                         >
                           Brands
                         </Link>
@@ -3039,6 +3091,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/beauty?page=1&limit=21&category=Makeup"
                         >
                           Makeup
                         </Link>
@@ -3080,6 +3133,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/beauty?page=1&limit=21&category=Skincare, Bath %26 Body"
                         >
                           Skincare, Bath & Body
                         </Link>
@@ -3115,18 +3169,19 @@ function Header() {
                         </Box>
                       )}
                     </Box>
-                    <Box sx={{ marginLeft: "10px", marginTop: "10px" }}>
+                    {/* <Box sx={{ marginLeft: "10px", marginTop: "10px" }}>
                       <Link
                         className="mobile-sub-link"
                         onClick={handleCloseButton}
                       >
                         Baby Care
                       </Link>
-                    </Box>
+                    </Box> */}
                     <Box sx={{ marginLeft: "10px", marginTop: "10px" }}>
                       <Link
                         className="mobile-sub-link"
                         onClick={handleCloseButton}
+                        to="/beauty?page=1&limit=21&category=Masks"
                       >
                         Masks
                       </Link>
@@ -3140,6 +3195,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/beauty?page=1&limit=21&category=Haircare"
                         >
                           Haircare
                         </Link>
@@ -3181,6 +3237,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/beauty?page=1&limit=21&category=Fragrances"
                         >
                           Fragrances
                         </Link>
@@ -3222,6 +3279,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/beauty?page=1&limit=21&category=Appliances"
                         >
                           Appliances
                         </Link>
@@ -3263,6 +3321,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/beauty?page=1&limit=21&category=Men's Grooming"
                         >
                           Men's Grooming
                         </Link>
@@ -3304,6 +3363,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/beauty?page=1&limit=21&category=Beauty Gift %26 Makeup Set"
                         >
                           Beauty Gift & Makeup Set
                         </Link>
@@ -3345,6 +3405,7 @@ function Header() {
                         <Link
                           className="mobile-sub-link"
                           onClick={handleCloseButton}
+                          to="/beauty?page=1&limit=21&category=Top Brands"
                         >
                           Top Brands
                         </Link>
@@ -3442,7 +3503,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="red-heading">Topwear</Link>
+                  <Link
+                    className="red-heading"
+                    to="/fashion/mens-wear?page=1&limit=21&category=Topwear"
+                  >
+                    Topwear
+                  </Link>
                   {men.topWear.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -3451,7 +3517,12 @@ function Header() {
                     );
                   })}
                   <span className="black-horizantal-line"></span>
-                  <Link className="red-heading">Indian & Festive Wear</Link>
+                  <Link
+                    className="red-heading"
+                    to="/fashion/mens-wear?page=1&limit=21&category=Indian %26 Festive Wear"
+                  >
+                    Indian & Festive Wear
+                  </Link>
                   {men.indianFestivalWear.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -3468,7 +3539,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="red-heading">Bottomwear</Link>
+                  <Link
+                    className="red-heading"
+                    to="/fashion/mens-wear?page=1&limit=21&category=Bottomwear"
+                  >
+                    Bottomwear
+                  </Link>
                   {men.bottomWear.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -3478,7 +3554,12 @@ function Header() {
                   })}
                   <span className="black-horizantal-line"></span>
 
-                  <Link className="red-heading">Innerwear & Sleepwear</Link>
+                  <Link
+                    className="red-heading"
+                    to="/fashion/mens-wear?page=1&limit=21&category=Innerwear %26 Sleepwear"
+                  >
+                    Innerwear & Sleepwear
+                  </Link>
                   {men.innerWear.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -3488,7 +3569,12 @@ function Header() {
                   })}
                   <span className="black-horizantal-line"></span>
 
-                  <Link className="red-heading">Plus Size</Link>
+                  <Link
+                    className="red-heading"
+                    to="/fashion/mens-wear?page=1&limit=21&category=Plus Size"
+                  >
+                    Plus Size
+                  </Link>
                 </Box>
                 <Box
                   sx={{
@@ -3498,7 +3584,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="red-heading">Footwear</Link>
+                  <Link
+                    className="red-heading"
+                    to="/fashion/mens-wear?page=1&limit=21&category=Footwear"
+                  >
+                    Footwear
+                  </Link>
                   {men.footwear.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -3508,8 +3599,18 @@ function Header() {
                   })}
                   <span className="black-horizantal-line"></span>
 
-                  <Link className="red-heading">Personal Care & Grooming</Link>
-                  <Link className="red-heading">Sunglasses & Frames</Link>
+                  <Link
+                    className="red-heading"
+                    to="/fashion/mens-wear?page=1&limit=21&category=Personal Care %26 Grooming"
+                  >
+                    Personal Care & Grooming
+                  </Link>
+                  <Link
+                    className="red-heading"
+                    to="/fashion/mens-wear?page=1&limit=21&category=Sunglasses %26 Frames"
+                  >
+                    Sunglasses & Frames
+                  </Link>
                   <Link className="red-heading">Watches</Link>
                 </Box>
                 <Box
@@ -3520,7 +3621,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="red-heading">Sports & Active Wear</Link>
+                  <Link
+                    className="red-heading"
+                    to="/fashion/mens-wear?page=1&limit=21&category=Sports %26 Active Wear"
+                  >
+                    Sports & Active Wear
+                  </Link>
                   {men.sports.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -3530,7 +3636,12 @@ function Header() {
                   })}
                   <span className="black-horizantal-line"></span>
 
-                  <Link className="red-heading">Gadgets</Link>
+                  <Link
+                    className="red-heading"
+                    to="/fashion/mens-wear?page=1&limit=21&category=Gadgets"
+                  >
+                    Gadgets
+                  </Link>
                   {men.gadgets.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -3547,7 +3658,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="red-heading">Fashion Accessories</Link>
+                  <Link
+                    className="red-heading"
+                    to="/fashion/mens-wear?page=1&limit=21&category=Fashion Accessories"
+                  >
+                    Fashion Accessories
+                  </Link>
                   {men.fashionAccessories.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -3558,8 +3674,18 @@ function Header() {
 
                   <span className="black-horizantal-line"></span>
 
-                  <Link className="red-heading">Bags & Backpacks</Link>
-                  <Link className="red-heading">Luggages & Trolleys</Link>
+                  <Link
+                    className="red-heading"
+                    to="/fashion/mens-wear?page=1&limit=21&category=Bags %26 Backpacks"
+                  >
+                    Bags & Backpacks
+                  </Link>
+                  <Link
+                    className="red-heading"
+                    to="/fashion/mens-wear?page=1&limit=21&category=Luggages %26 Trolleys"
+                  >
+                    Luggages & Trolleys
+                  </Link>
                 </Box>
               </Box>
             )}
@@ -3587,7 +3713,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="pink-heading">Indian & Fusion Wear</Link>
+                  <Link
+                    className="pink-heading"
+                    to="/fashion/womens-wear?page=1&limit=21&category=Indian %26 Fusion Wear"
+                  >
+                    Indian & Fusion Wear
+                  </Link>
                   {women.indianFusionWear.map((link, index) => {
                     return (
                       <Link
@@ -3603,8 +3734,18 @@ function Header() {
                   })}
 
                   <span className="black-horizantal-line"></span>
-                  <Link className="pink-heading">Belts, Scarves & More</Link>
-                  <Link className="pink-heading">Watches & Wearables</Link>
+                  <Link
+                    className="pink-heading"
+                    to="/fashion/womens-wear?page=1&limit=21&category=Belts, Scarves %26 More"
+                  >
+                    Belts, Scarves & More
+                  </Link>
+                  <Link
+                    className="pink-heading"
+                    to="/fashion/womens-wear?page=1&limit=21&category=Watches %26 Wearables"
+                  >
+                    Watches & Wearables
+                  </Link>
                 </Box>
                 <Box
                   sx={{
@@ -3614,7 +3755,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="pink-heading">Western Wear</Link>
+                  <Link
+                    className="pink-heading"
+                    to="/fashion/womens-wear?page=1&limit=21&category=Western Wear"
+                  >
+                    Western Wear
+                  </Link>
                   {women.westernWear.map((link, index) => {
                     return (
                       <Link
@@ -3631,7 +3777,12 @@ function Header() {
 
                   <span className="black-horizantal-line"></span>
 
-                  <Link className="pink-heading">Plus Size</Link>
+                  <Link
+                    className="pink-heading"
+                    to="/fashion/womens-wear?page=1&limit=21&category=Plus Size"
+                  >
+                    Plus Size
+                  </Link>
                 </Box>
                 <Box
                   sx={{
@@ -3641,9 +3792,24 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="pink-heading">Maternity</Link>
-                  <Link className="pink-heading">Sunglasses & Frames</Link>
-                  <Link className="pink-heading">Footwear</Link>
+                  <Link
+                    className="pink-heading"
+                    to="/fashion/womens-wear?page=1&limit=21&category=Maternity"
+                  >
+                    Maternity
+                  </Link>
+                  <Link
+                    className="pink-heading"
+                    to="/fashion/womens-wear?page=1&limit=21&category=Sunglasses %26 Frames"
+                  >
+                    Sunglasses & Frames
+                  </Link>
+                  <Link
+                    className="pink-heading"
+                    to="/fashion/womens-wear?page=1&limit=21&category=Footwear"
+                  >
+                    Footwear
+                  </Link>
 
                   {women.Footwear.map((link, index) => {
                     return (
@@ -3698,7 +3864,12 @@ function Header() {
                   })}
                   <span className="black-horizantal-line"></span>
 
-                  <Link className="pink-heading">Beauty & Personal Care</Link>
+                  <Link
+                    className="pink-heading"
+                    to="/fashion/womens-wear?page=1&limit=21&category=Beauty %26 Personal Care"
+                  >
+                    Beauty & Personal Care
+                  </Link>
                   {women.beautyAndPersonalCare.map((link, index) => {
                     return (
                       <Link
@@ -3721,7 +3892,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="pink-heading">Gadgets</Link>
+                  <Link
+                    className="pink-heading"
+                    to="/fashion/womens-wear?page=1&limit=21&category=Gadgets"
+                  >
+                    Gadgets
+                  </Link>
                   {women.gadgets.map((link, index) => {
                     return (
                       <Link
@@ -3737,7 +3913,12 @@ function Header() {
                   })}
                   <span className="black-horizantal-line"></span>
 
-                  <Link className="pink-heading">Jewellery</Link>
+                  <Link
+                    className="pink-heading"
+                    to="/fashion/womens-wear?page=1&limit=21&category=Jewellery"
+                  >
+                    Jewellery
+                  </Link>
                   {women.jewellery.map((link, index) => {
                     return (
                       <Link
@@ -3754,9 +3935,24 @@ function Header() {
 
                   <span className="black-horizantal-line"></span>
 
-                  <Link className="pink-heading">Backpacks</Link>
-                  <Link className="pink-heading">Handbags, Bags & Wallets</Link>
-                  <Link className="pink-heading">Luggages & Trolleys</Link>
+                  <Link
+                    className="pink-heading"
+                    to="/fashion/womens-wear?page=1&limit=21&category=Backpacks"
+                  >
+                    Backpacks
+                  </Link>
+                  <Link
+                    className="pink-heading"
+                    to="/fashion/womens-wear?page=1&limit=21&category=Handbags, Bags %26 Wallets"
+                  >
+                    Handbags, Bags & Wallets
+                  </Link>
+                  <Link
+                    className="pink-heading"
+                    to="/fashion/womens-wear?page=1&limit=21&category=Luggages %26 Trolleys"
+                  >
+                    Luggages & Trolleys
+                  </Link>
                 </Box>
               </Box>
             )}
@@ -3784,7 +3980,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="orange-heading">Boys Clothing</Link>
+                  <Link
+                    className="orange-heading"
+                    to="/fashion/kids-wear?page=1&limit=21&category=Boys Clothing"
+                  >
+                    Boys Clothing
+                  </Link>
                   {kids.boysClothing.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -3801,7 +4002,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="orange-heading">Girls Clothing</Link>
+                  <Link
+                    className="orange-heading"
+                    to="/fashion/kids-wear?page=1&limit=21&category=Girls Clothing"
+                  >
+                    Girls Clothing
+                  </Link>
                   {kids.girlsClothing.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -3818,7 +4024,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="orange-heading">Footwear</Link>
+                  <Link
+                    className="orange-heading"
+                    to="/fashion/kids-wear?page=1&limit=21&category=Footwear"
+                  >
+                    Footwear
+                  </Link>
                   {kids.footwear.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -3828,7 +4039,12 @@ function Header() {
                   })}
                   <span className="black-horizantal-line"></span>
 
-                  <Link className="orange-heading">Toys & Games</Link>
+                  <Link
+                    className="orange-heading"
+                    to="/fashion/kids-wear?page=1&limit=21&category=Toys %26 Games"
+                  >
+                    Toys & Games
+                  </Link>
                   {kids.toysAndGames.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -3845,7 +4061,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="orange-heading">Infants</Link>
+                  <Link
+                    className="orange-heading"
+                    to="/fashion/kids-wear?page=1&limit=21&category=Infants"
+                  >
+                    Infants
+                  </Link>
                   {kids.infants.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -3854,8 +4075,19 @@ function Header() {
                     );
                   })}
                   <span className="black-horizantal-line"></span>
-                  <Link className="orange-heading">Home & Bath</Link>
-                  <Link className="orange-heading">Personal Care</Link>
+                  <Link
+                    className="orange-heading"
+                    to="/fashion/kids-wear?page=1&limit=21&category=Home %26 Bath"
+                  >
+                    Home & Bath
+                  </Link>
+                  <Link
+                    className="orange-heading"
+                    to="/fashion/kids-wear?page=1&limit=21&category=Personal Care"
+                  >
+                    {" "}
+                    Personal Care
+                  </Link>
                 </Box>
                 <Box
                   sx={{
@@ -3865,7 +4097,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="orange-heading">Kids Accessories</Link>
+                  <Link
+                    className="orange-heading"
+                    to="/fashion/kids-wear?page=1&limit=21&category=Kids Accessories"
+                  >
+                    Kids Accessories
+                  </Link>
                   {kids.kidsAccessories.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -3875,7 +4112,12 @@ function Header() {
                   })}
                   <span className="black-horizantal-line"></span>
 
-                  <Link className="orange-heading">Brands</Link>
+                  <Link
+                    className="orange-heading"
+                    to="/fashion/kids-wear?page=1&limit=21&category=Brands"
+                  >
+                    Brands
+                  </Link>
                   {kids.brands.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -3914,7 +4156,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="yellow-heading">Bed Linen & Furnishing</Link>
+                  <Link
+                    className="yellow-heading"
+                    to="/home-and-living?page=1&limit=21&category=Bed Linen %26 Furnishing"
+                  >
+                    Bed Linen & Furnishing
+                  </Link>
                   {home.bedLinen.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -3923,7 +4170,12 @@ function Header() {
                     );
                   })}
                   <span className="black-horizantal-line"></span>
-                  <Link className="yellow-heading">Flooring</Link>
+                  <Link
+                    className="yellow-heading"
+                    to="/home-and-living?page=1&limit=21&category=Flooring"
+                  >
+                    Flooring
+                  </Link>
                   {home.flooring.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -3940,7 +4192,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="yellow-heading">Bath</Link>
+                  <Link
+                    className="yellow-heading"
+                    to="/home-and-living?page=1&limit=21&category=Bath"
+                  >
+                    Bath
+                  </Link>
                   {home.bath.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -3950,7 +4207,12 @@ function Header() {
                   })}
                   <span className="black-horizantal-line"></span>
 
-                  <Link className="yellow-heading">Lamps & Lighting</Link>
+                  <Link
+                    className="yellow-heading"
+                    to="/home-and-living?page=1&limit=21&category=Lamps %26 Lighting"
+                  >
+                    Lamps & Lighting
+                  </Link>
                   {home.lamps.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -3967,7 +4229,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="yellow-heading">Home Décor</Link>
+                  <Link
+                    className="yellow-heading"
+                    to="/home-and-living?page=1&limit=21&category=Home Decor"
+                  >
+                    Home Décor
+                  </Link>
                   {home.homeDecor.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -3976,7 +4243,10 @@ function Header() {
                     );
                   })}
                   <span className="black-horizantal-line"></span>
-                  <Link className="yellow-heading">
+                  <Link
+                    className="yellow-heading"
+                    to="/home-and-living?page=1&limit=21&category=Cushions %26 Cushion Covers"
+                  >
                     Cushions & Cushion Covers
                   </Link>
                   <Link className="yellow-heading">Curtains</Link>
@@ -3989,7 +4259,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="yellow-heading">Home Gift Sets</Link>
+                  <Link
+                    className="yellow-heading"
+                    to="/home-and-living?page=1&limit=21&category=Home Gift Sets"
+                  >
+                    Home Gift Sets
+                  </Link>
                   <Link className="yellow-heading">Kitchen & Table</Link>
                   {home.kitchen.map((link, index) => {
                     return (
@@ -3999,7 +4274,12 @@ function Header() {
                     );
                   })}
                   <span className="black-horizantal-line"></span>
-                  <Link className="yellow-heading">Storage</Link>
+                  <Link
+                    className="yellow-heading"
+                    to="/home-and-living?page=1&limit=21&category=Storage"
+                  >
+                    Storage
+                  </Link>
                   {home.storage.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -4016,7 +4296,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="yellow-heading">Brands</Link>
+                  <Link
+                    className="yellow-heading"
+                    to="/home-and-living?page=1&limit=21&category=Brands"
+                  >
+                    Brands
+                  </Link>
                   {home.brands.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -4051,7 +4336,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="green-heading">Makeup</Link>
+                  <Link
+                    className="green-heading"
+                    to="/beauty?page=1&limit=21&category=Makeup"
+                  >
+                    Makeup
+                  </Link>
                   {beauty.makeup.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -4068,7 +4358,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="green-heading">Skincare, Bath & Body</Link>
+                  <Link
+                    className="green-heading"
+                    to="/beauty?page=1&limit=21&category=Skincare, Bath %26 Body"
+                  >
+                    Skincare, Bath & Body
+                  </Link>
                   {beauty.skincare.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -4078,8 +4373,13 @@ function Header() {
                   })}
                   <span className="black-horizantal-line"></span>
 
-                  <Link className="green-heading">Baby Care</Link>
-                  <Link className="green-heading">Masks</Link>
+                  {/* <Link className="green-heading">Baby Care</Link> */}
+                  <Link
+                    className="green-heading"
+                    to="/beauty?page=1&limit=21&category=Masks"
+                  >
+                    Masks
+                  </Link>
                 </Box>
                 <Box
                   sx={{
@@ -4089,7 +4389,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="green-heading">Haircare</Link>
+                  <Link
+                    className="green-heading"
+                    to="/beauty?page=1&limit=21&category=Haircare"
+                  >
+                    Haircare
+                  </Link>
                   {beauty.hairCare.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -4098,7 +4403,12 @@ function Header() {
                     );
                   })}
                   <span className="black-horizantal-line"></span>
-                  <Link className="green-heading">Fragrances</Link>
+                  <Link
+                    className="green-heading"
+                    to="/beauty?page=1&limit=21&category=Fragrances"
+                  >
+                    Fragrances
+                  </Link>
                   {beauty.fragrence.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -4115,7 +4425,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="green-heading">Appliances</Link>
+                  <Link
+                    className="green-heading"
+                    to="/beauty?page=1&limit=21&category=Appliances"
+                  >
+                    Appliances
+                  </Link>
                   {beauty.appliances.map((link, index) => {
                     return (
                       <Link key={index} to={link[0]}>
@@ -4134,7 +4449,10 @@ function Header() {
                     );
                   })}
                   <span className="black-horizantal-line"></span>
-                  <Link className="green-heading">
+                  <Link
+                    className="green-heading"
+                    to="/beauty?page=1&limit=21&category=Beauty Gift %26 Makeup Set"
+                  >
                     Beauty Gift & Makeup Set
                   </Link>
                   {beauty.beautyGift.map((link, index) => {
@@ -4145,8 +4463,18 @@ function Header() {
                     );
                   })}
                   <span className="black-horizantal-line"></span>
-                  <Link className="green-heading">Premium Beauty</Link>
-                  <Link className="green-heading">Wellness & Hygiene</Link>
+                  <Link
+                    className="green-heading"
+                    to="/beauty?page=1&limit=21&category=Premium Beauty"
+                  >
+                    Premium Beauty
+                  </Link>
+                  <Link
+                    className="green-heading"
+                    to="/beauty?page=1&limit=21&category=Wellness %26 Hygiene"
+                  >
+                    Wellness & Hygiene
+                  </Link>
                 </Box>
                 <Box
                   sx={{
@@ -4156,7 +4484,12 @@ function Header() {
                     height: "inherit",
                   }}
                 >
-                  <Link className="green-heading">Top Brands</Link>
+                  <Link
+                    className="green-heading"
+                    to="/beauty?page=1&limit=21&category=Top Brands"
+                  >
+                    Top Brands
+                  </Link>
 
                   {beauty.topBrands.map((link, index) => {
                     return (

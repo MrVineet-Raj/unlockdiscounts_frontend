@@ -37,7 +37,7 @@ function WomensWear() {
         `https://product-gallery.onrender.com/api/womenswear?${query}`
       );
     }
-    
+
     const data = res.data;
     setPage(parseInt(pageFromQuery) || 1);
 
